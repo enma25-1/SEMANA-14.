@@ -8,7 +8,7 @@
 ## Comandos Git
 
 
-INICIAR GIR
+#INICIAR GIT
 git init
 
 #AÑADIR TODO O ARCHIVOS
