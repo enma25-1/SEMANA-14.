@@ -5,7 +5,7 @@
 
 **CARLOS ENMANUEL FLORES MENDEZ**
 
-## Comandos Git
+# Comandos Git
 
 
 #INICIAR GIT
