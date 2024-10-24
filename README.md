@@ -7,7 +7,7 @@
 
 ## Comandos Git
 
-```sh
+
 #INICIAR GIR
 git init
 
