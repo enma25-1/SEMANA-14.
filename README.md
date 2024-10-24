@@ -1,5 +1,4 @@
 # SEMANA-14.
-# SEMANA-14
 # Descripción: Laboratorio #3 de Programación II
 # Programación 2
 
